@@ -4,4 +4,12 @@ git config --global user.email "mohit.thakral@targetintegration.com"
 
 git status
 
+git add . 
+
 git commit -am "Commit Message"
+
+git log
+
+
+
+git remote 
