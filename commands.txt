@@ -1,3 +1,7 @@
 git config --global user.name "Mohit Thakral"
 
 git config --global user.email "mohit.thakral@targetintegration.com"
+
+git status
+
+git commit -am "Commit Message"
